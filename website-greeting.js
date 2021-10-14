@@ -19,5 +19,5 @@ function GetTimeText() {
 
 (function () {
     var greetingElement = document.getElementById(greetingElementID);
-    greetingElement.innerText = "Good " + GetTimeText() + "! We hope you have a good rest of your " + days[n] + ".";
+    greetingElement.innerText = "Good " + GetTimeText() + "! Enjoy the rest of your " + days[n] + ".";
 })();
