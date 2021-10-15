@@ -6,7 +6,7 @@ var hrs = myDate.getHours();
 var d = new Date();
 var n = d.getDay()
 
-var days = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
+var days = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "FriYAY", "Saturday"];
 
 function GetTimeText() {
     if (hrs < 12)
